@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ex7
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ creatpoint\ here.\r\n\r\n\ @author\ (sandun)\r\n\ @version\ (2019/11/29)\r\n
+comment1.params=x\ y
+comment1.target=void\ creatPoint(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=s
+comment3.target=void\ printPoint(java.awt.Point)
+numComments=4
