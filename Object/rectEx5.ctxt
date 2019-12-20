@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=rectEx5
+comment1.params=x\ y\ w\ h
+comment1.target=void\ box(int,\ int,\ int,\ int)
+comment2.params=x\ y\ w\ h
+comment2.target=void\ shiftbox(int,\ int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
