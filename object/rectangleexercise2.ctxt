@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=rectangleexercise2
+comment1.params=x\ y\ width\ heigth
+comment1.target=java.awt.Rectangle\ createRectangle(int,\ int,\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
