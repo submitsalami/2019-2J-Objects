@@ -1,12 +1,13 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+これはプロジェクトの README.TXT ファイルです。ここに、自分のプロジェクト
+に関する説明を書いてください。読み手である彼／彼女——このプロジェクトに
+ついて知らない誰か——が知っておく必要のあるすべてを書いてください。
+少なくとも以下のコメントはたいていの場合に含めるべきです。
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+プロジェクトタイトル：
+プロジェクトの目的：
+バージョンもしくは日付：
+このプロジェクトの起動方法：
+作成者：
+ユーザーに教えること：
