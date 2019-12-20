@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ex4
+comment0.text=\r\n\ \u30AF\u30E9\u30B9\ ex3\ \u306E\u6CE8\u91C8\u3092\u3053\u3053\u306B\u66F8\u304D\u307E\u3059.\r\n\ String\ traversal\r\n\ @author\ (nisala)\r\n\ @version\ (25-10-2019)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=name
+comment2.target=java.lang.String\ n(java.lang.String)
+numComments=3

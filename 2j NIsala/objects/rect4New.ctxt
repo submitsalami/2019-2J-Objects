@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=rect4New
+comment1.params=x\ y\ width\ height
+comment1.target=java.awt.Rectangle\ createRectangle(int,\ int,\ int,\ int)
+comment2.params=baka\ a\ b
+comment2.target=java.awt.Point\ findCenter(java.awt.Rectangle,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

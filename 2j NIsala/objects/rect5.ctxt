@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=rect5
+comment1.params=x\ y\ width\ height
+comment1.target=java.awt.Rectangle\ createRectangle(int,\ int,\ int,\ int)
+comment2.params=blank\ a\ b
+comment2.target=void\ shift(java.awt.Rectangle,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
