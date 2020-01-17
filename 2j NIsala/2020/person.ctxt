@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=person
+comment0.text=\r\n\ \u30AF\u30E9\u30B9\ person\ \u306E\u6CE8\u91C8\u3092\u3053\u3053\u306B\u66F8\u304D\u307E\u3059.\r\n\ \r\n\ @author\ (nisala)\r\n\ @version\ (9-1-2020)\r\n
+comment1.params=name\ age\ phone
+comment1.target=person(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=
+comment4.target=java.lang.String\ getPhone()
+numComments=5
